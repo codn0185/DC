@@ -2,7 +2,7 @@
 
 ## 교재
 
-* [Data Communications and Networking By Behrouz A.Forouzan.pdf](./Data Communications and Networking By Behrouz A.Forouzan.pdf)
+* [Data Communications and Networking By Behrouz A.Forouzan.pdf](./Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf)
 
 ## 강의자료
 

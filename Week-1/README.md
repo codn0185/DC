@@ -2,5 +2,6 @@
 
 ## 강의자료
 
-* [원본](./Week-1/[Commn_TKwon22f] 01 Introduction_v001 [오리엔테이션].pdf)
+* [원본](./Week-1/%5BCommn_TKwon22f%5D%2001%20Introduction_v001%20%5B%EC%98%A4%EB%A6%AC%EC%97%94%ED%85%8C%EC%9D%B4%EC%85%98%5D%20(kor).pdf)
 * [번역본](./Week-1/[Commn_TKwon22f] 01 Introduction_v001 [오리엔테이션] (kor).pdf)
+

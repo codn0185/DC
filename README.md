@@ -1,2 +1,13 @@
-# DC
-Data Communication
+# 데이터통신
+
+## 강의자료
+
+* [1주차]()
+  * [None]()
+  * [None]()
+  * [None]()
+ 
+* [2주차]()
+  * [None]()
+  * [None]()
+  * [None]()

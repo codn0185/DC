@@ -1,5 +1,9 @@
 # 데이터통신
 
+## 교재
+
+* [Data Communications and Networking By Behrouz A.Forouzan.pdf](./Data Communications and Networking By Behrouz A.Forouzan.pdf)
+
 ## 강의자료
 
 * [1주차](./Week-1)

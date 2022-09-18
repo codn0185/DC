@@ -12,6 +12,9 @@
 
  
 2. [Week-2](./Week-2)
-	* [None]()
-	* [None]()
-	* [None]()
+	* [[Commn_TKwon22f] 02 Intro_NetworksModel_v002.pdf](./Week-2/%5BCommn_TKwon22f%5D%2002%20Intro_NetworksModel_v002.pdf)
+		* [[Commn_TKwon22f] 02 Intro_NetworksModel_v002 (kor).pdf](./Week-2/%5BCommn_TKwon22f%5D%2002%20Intro_NetworksModel_v002%20(kor).pdf)
+	* [Assignment01_Problem.pdf](./Week-2/Assignment01_Problem.pdf)
+	
+
+
